@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/jjw/vSLAM14-Code_Comment/第十一章代码注释/build",
+  "command": "/usr/bin/g++-4.8   -I/usr/include/eigen3 -I/home/jjw/slambook-master/3rdparty/Sophus -I/usr/include/suitesparse -I/usr/local/lib/cmake/GTSAM/../../../include -I/usr/local/include/gtsam/3rdparty/Eigen -I/usr/local/include -I/usr/local/include/eigen3  -std=c++11 -O3 -g   -o CMakeFiles/pose_graph_g2o_SE3.dir/pose_graph_g2o_SE3.cpp.o -c /home/jjw/vSLAM14-Code_Comment/第十一章代码注释/pose_graph_g2o_SE3.cpp",
+  "file": "/home/jjw/vSLAM14-Code_Comment/第十一章代码注释/pose_graph_g2o_SE3.cpp"
+},
+{
+  "directory": "/home/jjw/vSLAM14-Code_Comment/第十一章代码注释/build",
+  "command": "/usr/bin/g++-4.8   -I/usr/include/eigen3 -I/home/jjw/slambook-master/3rdparty/Sophus -I/usr/include/suitesparse -I/usr/local/lib/cmake/GTSAM/../../../include -I/usr/local/include/gtsam/3rdparty/Eigen -I/usr/local/include -I/usr/local/include/eigen3  -std=c++11 -O3 -g   -o CMakeFiles/pose_graph_g2o_lie.dir/pose_graph_g2o_lie_algebra.cpp.o -c /home/jjw/vSLAM14-Code_Comment/第十一章代码注释/pose_graph_g2o_lie_algebra.cpp",
+  "file": "/home/jjw/vSLAM14-Code_Comment/第十一章代码注释/pose_graph_g2o_lie_algebra.cpp"
+},
+{
+  "directory": "/home/jjw/vSLAM14-Code_Comment/第十一章代码注释/build",
+  "command": "/usr/bin/g++-4.8   -I/usr/include/eigen3 -I/home/jjw/slambook-master/3rdparty/Sophus -I/usr/include/suitesparse -I/usr/local/lib/cmake/GTSAM/../../../include -I/usr/local/include/gtsam/3rdparty/Eigen -I/usr/local/include -I/usr/local/include/eigen3  -std=c++11 -O3 -g   -o CMakeFiles/pose_graph_gtsam.dir/pose_graph_gtsam.cpp.o -c /home/jjw/vSLAM14-Code_Comment/第十一章代码注释/pose_graph_gtsam.cpp",
+  "file": "/home/jjw/vSLAM14-Code_Comment/第十一章代码注释/pose_graph_gtsam.cpp"
+}
+]
